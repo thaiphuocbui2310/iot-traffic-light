@@ -76,7 +76,7 @@ Traditional fixed-timing traffic lights waste time on empty roads. Our system de
 ## 👨‍💻 Author
 
 **Bui Thai Phuoc**  
-Control and Automation Engineering, DNUT  
+Control and Automation Engineering, DUT  
 📧 thaiphuocbui2310@gmail.com  
 🔗 [linkedin.com/in/thaiphuocbui](https://linkedin.com/in/thaiphuocbui)
 
